@@ -40,7 +40,7 @@ I'm an extroverted individual who loves exploring and *exploiting* both new and 
 ## Courses and Certifications <a name="certs"></a>
 
 | Title | Type | Issue Date |
-| ----- | --- | ---- | ----|
+| ----- | --- | ----|
 | [Redis Certified Developer](https://www.credential.net/2cd79295-7735-4c4a-8e65-d10bfd5979d3#gs.9bkdfs) | Certification | August 2021 |
 | [Google Cloud Big Data and Machine Learning Fundamentals](https://coursera.org/share/44cb687e83f34a4eed652866027c23be) | Course | October 2021 |
 
