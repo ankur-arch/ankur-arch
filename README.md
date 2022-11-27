@@ -15,11 +15,12 @@
 - [Technologies](#technologies)
 - [Education](#education)
 - [Work](#work)
+- [Thesis](#thesis)
 - [Courses and Certifications](#courses-and-certifications)
 
 ## About
 
-I'm an outgoing person that enjoys both working :fireworks: and playing hard :beers:. I enjoy balancing technology exploitation and exploration. I'm currently employed with [AlgoSolver LLC](https://algosolver.com/) as a full-stack developer (BE-heavy). I appreciate the process of learning and putting what I've learned into practice! Aside from technology, I focus on connecting with people in order to understand more about communication styles and reflect on them in order to improve myself <3.
+> I'm an extroverted individual who loves hard work and  collaborative work. I'm currently employed with [AlgoSolver LLC](https://algosolver.com/) as a full-stack developer (BE-heavy). I love the process of learning and putting what I've learned into practice!
 
 ## Technologies
 
@@ -41,13 +42,14 @@ I'm an outgoing person that enjoys both working :fireworks: and playing hard :be
 | `DevOps` | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | `CI/CD` | ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |
 | `Project Management and Documentation`| ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) |
+| `ML-Toolkit`| ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
 
 ## Education
 
 | Degree |  Timeline | Institution | Skills Gained | Extras |
 | --- | --- | --- | --- | --- |
-| Bachelor's in Computer Science| Jan 2017 - Sep 2021 | [Independent University, Bangladesh](http://www.iub.edu.bd/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | I learned how to pick up new skills in a short span of time and under pressure. I practiced the art of translating theory into practice. |
-| *Erasmus+ Exchange* | Feb 2019 - June 2019 | [University of Maribor](https://www.um.si/en/home-page/) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | I learnt to adapt to a new environment, interact and work with people from different cultures. The most important skill I picked up was to break out of my comfort zone |
+| **Bachelor's in Computer Science** with *CGPA 3.95/4.0*| Jan 2017 - Sep 2021 | [Independent University, Bangladesh](http://www.iub.edu.bd/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | I learned how to pick up new skills in a short span of time and under pressure. I practiced the art of translating theory into practice. |
+| ***Erasmus+ Exchange*** *24 ECTS* | Feb 2019 - June 2019 | [University of Maribor](https://www.um.si/en/home-page/) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| I learnt to adapt to a new environment, interact and work with people from different cultures. The most important skill I picked up was to break out of my comfort zone |
 
 ## Work
 
@@ -55,6 +57,38 @@ I'm an outgoing person that enjoys both working :fireworks: and playing hard :be
 |    ---       |   ---     |  ---    |  ---     | --- |
 |   NOV 2021 - Present   | [Algosolver LLC](https://algosolver.com/)  |  Full Stack Software Developer ( BE-heavy ) |Conduct R&D for new features, communicate with the team and determine project timelines. Write unit tests and integrate several api's (especially in the Marketplace domain) such as Stripe, Paypal, Mailgun, Twilio, etc. Train juniors and document R&D learnings in Confluence. Bootstrap project sturctures and set code standards for team to follow. | ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
 |   NOV 2020 - AUG 2021  | [Pynea LTD](https://thirdmynd.com/) | Full Stack Developer     | Translate designs from figma into code. Collaborate and sync with client and team to deliver the application. Identify performance bottlenecks and perform optimizations. Write documented and well-tested codes. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   |
+
+### Thesis
+
+#### Classification of Bangla Compound Characters
+
+![Bangla Compound Characters](./public/cmater_test.png)
+
+> Supervisor: A K M Mahbubur Rahman, PHD
+Assistant Professor
+Department of Computer Science & Engineering
+Independent University, Dhaka
+akmmrahman@iub.edu.bd
+
+##### Description
+
+Classify and Identify limitations of the CNN models available and finetune for better **f1-score** on Bangla Compound Character Handwritten Dataset using Pytorch
+
+###### Techniques Used
+
+```mermaid
+stateDiagram-v2
+state "Unprocessed Data" as s1
+state "Preprocessing" as s2
+state "Model Selection" as s3
+state "Training" as s4
+state "Testing" as s5
+state "Visualization" as s6
+```
+
+- [x] Acheived a test accuracy of 96.7% ( highest on the particular dataset on that time)  
+- [x] Reduced model training time using several optimisation techniques such as batching and taking advantage of memory
+- [x] Identified areas of difficulty to distuigsh similar characters via *GradCams*
 
 ## Courses and Certifications
 
