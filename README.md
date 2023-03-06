@@ -14,13 +14,14 @@
 - [About](#about)
 - [Technologies](#technologies)
 - [Education](#education)
-- [Work](#work)
 - [Thesis](#thesis)
 - [Courses and Certifications](#courses-and-certifications)
 
 ## About
 
 > As an energetic and determined extrovert, I thrive on hard work and collaboration. I currently serve as a full-stack developer (with a focus on back-end development) at AlgoSolver LLC, where I relish the opportunity to continuously learn and apply my knowledge.
+
+[Checkout my portfolio](https://ankur-datta.vercel.app/)
 ## Technologies
 
 |  :notes: NOTE  |
@@ -50,12 +51,6 @@
 | **Bachelor's in Computer Science** with *CGPA 3.95/4.0*| Jan 2017 - Sep 2021 | [Independent University, Bangladesh](http://www.iub.edu.bd/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | I learned how to pick up new skills in a short span of time and under pressure. I practiced the art of translating theory into practice. |
 | ***Erasmus+ Exchange*** *24 ECTS* | Feb 2019 - June 2019 | [University of Maribor](https://www.um.si/en/home-page/) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| I learnt to adapt to a new environment, interact and work with people from different cultures. The most important skill I picked up was to break out of my comfort zone |
 
-## Work
-
-|   Timeline   | Company   | ROLE | Day to Day |  Stack |
-|    ---       |   ---     |  ---    |  ---     | --- |
-|   NOV 2021 - Present   | [Algosolver LLC](https://algosolver.com/)  |  Full Stack Software Developer ( BE-heavy ) |Conduct R&D for new features, communicate with the team and determine project timelines. Write unit tests and integrate several api's (especially in the Marketplace domain) such as Stripe, Paypal, Mailgun, Twilio, etc. Train juniors and document R&D learnings in Confluence. Bootstrap project sturctures and set code standards for team to follow. | ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
-|   Jan 2020 - Aug 2021  | [Pynea LTD](https://thirdmynd.com/) | Full Stack Developer     | Translate designs from figma into code. Collaborate and sync with client and team to deliver the application. Identify performance bottlenecks and perform optimizations. Write documented and well-tested codes. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   |
 
 ### Thesis
 
