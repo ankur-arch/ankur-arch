@@ -19,7 +19,7 @@
 
 ## About
 
-> As an energetic and determined extrovert, I thrive on hard work and collaboration. I currently serve as a full-stack developer (with a focus on back-end development) at AlgoSolver LLC, where I relish the opportunity to continuously learn and apply my knowledge.
+> I am an extroverted individual who is full of energy and determination. I enjoy working hard and collaborating with others. Currently, I am employed at Prisma as a Developer Advocate. My previous experience includes working as a Full Stack Software Developer. My goal is to constantly enhance my communication and technical abilities. 
 
 [Checkout my portfolio](https://ankur-datta.vercel.app/)
 ## Technologies
