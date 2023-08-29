@@ -14,8 +14,6 @@
 - [About](#about)
 - [Technologies](#technologies)
 - [Education](#education)
-- [Thesis](#thesis)
-- [Courses and Certifications](#courses-and-certifications)
 
 ## About
 
@@ -50,43 +48,3 @@
 | --- | --- | --- | --- | --- |
 | **Bachelor's in Computer Science** with *CGPA 3.95/4.0*| Jan 2017 - Sep 2021 | [Independent University, Bangladesh](http://www.iub.edu.bd/) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | I learned how to pick up new skills in a short span of time and under pressure. I practiced the art of translating theory into practice. |
 | ***Erasmus+ Exchange*** *24 ECTS* | Feb 2019 - June 2019 | [University of Maribor](https://www.um.si/en/home-page/) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| I learnt to adapt to a new environment, interact and work with people from different cultures. The most important skill I picked up was to break out of my comfort zone |
-
-
-### Thesis
-
-#### Classification of Bangla Compound Characters
-
-![Bangla Compound Characters](./public/cmater_test.png)
-
-> Supervisor: A K M Mahbubur Rahman, PHD
-Assistant Professor
-Department of Computer Science & Engineering
-Independent University, Dhaka
-akmmrahman@iub.edu.bd
-
-##### Description
-
-Classify and Identify limitations of the CNN models available and finetune for better **f1-score** on Bangla Compound Character Handwritten Dataset using Pytorch
-
-###### Techniques Used
-
-```mermaid
-stateDiagram-v2
-state "Unprocessed Data" as s1
-state "Preprocessing" as s2
-state "Model Selection" as s3
-state "Training" as s4
-state "Testing" as s5
-state "Visualization" as s6
-```
-
-- [x] Acheived a test accuracy of 96.7% ( highest on the particular dataset on that time)  
-- [x] Reduced model training time using several optimisation techniques such as batching and taking advantage of memory
-- [x] Identified areas of difficulty to distuigsh similar characters via *GradCams*
-
-## Courses and Certifications
-
-| Title | Type | Issue Date |
-| ----- | --- | ----|
-| [Redis Certified Developer](https://www.credential.net/2cd79295-7735-4c4a-8e65-d10bfd5979d3#gs.9bkdfs) | Certification | August 2021 |
-| [Google Cloud Big Data and Machine Learning Fundamentals](https://coursera.org/share/44cb687e83f34a4eed652866027c23be) | Course | October 2021 |
